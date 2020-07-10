@@ -1,0 +1,17 @@
+body { 
+
+    background-color: white;
+}
+img.square { 
+ border: 1px solid black;
+ border-radius: 5px; 
+ width:180px;
+ height:180px;
+
+}
+
+img.Black_X {
+
+    width:180px;
+    height:180px;
+}
